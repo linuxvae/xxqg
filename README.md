@@ -27,4 +27,6 @@
 4.  python -m uiautomator2 init  这步会把atx-agent启动并保持后台运行
 3.  adb push xuexi.py /storage/emulated/0/qpython/script3/   把脚本push到设备中的qpython目录去
 4.  qpython 中打开脚本，点击运行，既可刷起来
-
+ <p>参考文章：</p>  
+  <p>https://testerhome.com/topics/11980  </p>  
+   <p>https://github.com/openatx/uiautomator2</p>  
